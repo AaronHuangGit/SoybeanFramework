@@ -1,0 +1,2 @@
+include ':app', ':framework', ':camera', ':pay', ':share', ':common', ':map', ':jpush', ':http', ':imageloader'
+
